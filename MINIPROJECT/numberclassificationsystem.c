@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-
+//NUMBERCLASIFICATION SYSTEMM
 printf("NUMBER CLASSIFICATION SYSTEMM ! \n");
 printf("Whichever number you may input here, ill classify it for ya ! \n");
 int n;
